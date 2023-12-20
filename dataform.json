@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "dataform",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "dt-kristopher-sdbx-dev",
+  "defaultLocation": "US"
+}
+    
